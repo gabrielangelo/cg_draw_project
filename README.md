@@ -1,7 +1,7 @@
 ### Trabalho 1 de computação gráfica
 
-Aluno: Gabriel Angelo Freire Gonçalves
-Matrícula: 1275115
+- Aluno: Gabriel Angelo Freire Gonçalves
+- Matrícula: 1275115
 
 Implementação de funções simples de desenho.
 
