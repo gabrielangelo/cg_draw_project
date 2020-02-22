@@ -19,6 +19,9 @@ Instruções
 #### Instalando e rodando o projeto
 `$ ./build; . venv/bin/activate; make run`
 
+#### Rodando apenas o projeto
+`$ make run`
+
 ## Links
 - https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
 - https://sites.google.com/site/felipealvesaraujocg/trabalho1
