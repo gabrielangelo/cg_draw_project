@@ -15,6 +15,7 @@ Instruções
 =============
 #### Requisitos
 * python >= 3.5
+* Ambiente Linux
 
 #### Instalando e rodando o projeto
 `$ ./build; . venv/bin/activate; make run`
