@@ -3,7 +3,7 @@
 - Aluno: Gabriel Angelo Freire Gonçalves
 - Matrícula: 1275115
 
-Implementação de funções simples de desenho.
+Implementação de funções de desenho.
 
 -  Um ponto;
 -  Uma reta;
